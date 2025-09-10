@@ -1,0 +1,304 @@
+--- Prompt 0 ---
+Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?
+
+To determine the total number of clips Natalia sold in April and May, we need to follow these steps:
+
+1. Identify the number of clips sold in April.
+2. Calculate the number of clips sold in May.
+3. Add the number of clips sold in April and May together.
+
+First, we know that Natalia sold 48 clips in April. According to the problem, she sold half as many clips in May. Therefore, the number of clips sold in May is:
+\[
+\frac{48}{2} = 24
+\]
+
+Next, we add the number of clips sold in April and May to find the total number of clips sold:
+\[
+48 + 24 = 72
+\]
+
+Thus, the total number of clips Natalia sold in April and May is:
+\[
+\boxed{72}
+\]
+================================================================================
+--- Prompt 1 ---
+Weng earns $12 an hour for babysitting. Yesterday, she just did 50 minutes of babysitting. How much did she earn?
+
+To determine how much Weng earned for 50 minutes of babysitting, we need to follow these steps:
+
+1. Convert the time from minutes to hours. Since there are 60 minutes in an hour, we can convert 50 minutes to hours by dividing 50 by 60:
+   \[
+   \frac{50}{60} = \frac{5}{6} \text{ hours}
+   \]
+
+2. Calculate the earnings by multiplying the number of hours by the hourly rate. Weng earns $12 per hour, so we multiply \(\frac{5}{6}\) hours by $12:
+   \[
+   12 \times \frac{5}{6} = 12 \times \frac{5}{6} = 12 \times 0.8333 = 10
+   \]
+
+Therefore, Weng earned \(\boxed{10}\) dollars.
+================================================================================
+--- Prompt 2 ---
+Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?
+
+To determine how much more money Betty needs to buy the wallet, we start by calculating the total amount of money her parents and grandparents have given her.
+
+First, we know that Betty needs $100 for the wallet. She currently has half of this amount, so she has:
+\[
+\frac{100}{2} = 50 \text{ dollars}
+\]
+Her parents give her $15, and her grandparents give her twice as much as her parents, which is:
+\[
+2 \times 15 = 30 \text{ dollars}
+\]
+Adding these amounts together, the total amount of money Betty now has is:
+\[
+50 + 15 + 30 = 95 \text{ dollars}
+\]
+The cost of the wallet is $100, so the amount of money Betty still needs is:
+\[
+100 - 95 = 5 \text{ dollars}
+\]
+Thus, the amount of money Betty still needs to buy the wallet is:
+\[
+\boxed{5}
+\]
+================================================================================
+--- Prompt 3 ---
+Julie is reading a 120-page book. Yesterday, she was able to read 12 pages and today, she read twice as many pages as yesterday. If she wants to read half of the remaining pages tomorrow, how many pages should she read?
+
+To determine how many pages Julie should read tomorrow, we need to follow these steps:
+
+1. Calculate the total number of pages Julie has read so far.
+2. Determine the number of pages remaining in the book.
+3. Calculate how many pages she should read tomorrow, which is half of the remaining pages.
+
+First, let's find out how many pages Julie read today. Since she read twice as many pages today as she did yesterday, and she read 12 pages yesterday, she read:
+\[ 2 \times 12 = 24 \text{ pages today} \]
+
+Next, we add the pages she read yesterday and today to find the total number of pages she has read so far:
+\[ 12 + 24 = 36 \text{ pages} \]
+
+Now, we subtract the number of pages she has read from the total number of pages in the book to find out how many pages are remaining:
+\[ 120 - 36 = 84 \text{ pages} \]
+
+Julie wants to read half of the remaining pages tomorrow. Therefore, the number of pages she should read tomorrow is:
+\[ \frac{84}{2} = 42 \text{ pages} \]
+================================================================================
+--- Prompt 4 ---
+James writes a 3-page letter to 2 different friends twice a week. How many pages does he write a year?
+
+To determine how many pages James writes in a year, we need to break down the problem step by step.
+
+1. Calculate the number of pages James writes in one day:
+   - James writes a 3-page letter to each of his 2 friends.
+   - Therefore, in one day, he writes \(3 \text{ pages/friend} \times 2 \text{ friends} = 6 \text{ pages}\).
+
+2. Calculate the number of pages James writes in one week:
+   - James writes 6 pages each day.
+   - He does this twice a week.
+   - Therefore, in one week, he writes \(6 \text{ pages/day} \times 2 \text{ days/week} = 12 \text{ pages/week}\).
+
+3. Calculate the number of pages James writes in one year:
+   - There are 52 weeks in a year.
+   - Therefore, in one year, he writes \(12 \text{ pages/week} \times 52 \text{ weeks/year} = 624 \text{ pages/year}\).
+
+So, the total number of pages James writes in a year is \(\boxed{624}\).
+================================================================================
+--- Prompt 5 ---
+Mark has a garden with flowers. He planted plants of three different colors in it. Ten of them are yellow, and there are 80% more of those in purple. There are only 25% as many green flowers as there are yellow and purple flowers. How many flowers does Mark have in his garden?
+
+To determine the total number of flowers in Mark's garden, we need to calculate the number of each type of flower and then sum them up.
+
+1. **Number of yellow flowers:**
+   Mark has 10 yellow flowers.
+
+2. **Number of purple flowers:**
+   There are 80% more purple flowers than yellow flowers. To find the number of purple flowers, we calculate 80% of 10 and add it to 10:
+   \[
+   80\% \text{ of } 10 = 0.8 \times 10 = 8
+   \]
+   Therefore, the number of purple flowers is:
+   \[
+   10 + 8 = 18
+   \]
+
+3. **Number of green flowers:**
+   There are 25% as many green flowers as there are yellow and purple flowers combined. First, we find the total number of yellow and purple flowers:
+   \[
+   10 + 18 = 28
+   \]
+   Then, we calculate 25% of 28:
+   \[
+   25\% \text{ of } 28 = 0.25
+================================================================================
+--- Prompt 6 ---
+Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he eats it all, how many pieces does he eat that day?
+
+To determine how many pieces of pizza Albert eats in one day, we need to calculate the total number of slices from both the large and small pizzas he bought.
+
+First, we calculate the number of slices from the large pizzas:
+- Each large pizza has 16 slices.
+- Albert bought 2 large pizzas.
+- Therefore, the total number of slices from the large pizzas is \(2 \times 16 = 32\).
+
+Next, we calculate the number of slices from the small pizzas:
+- Each small pizza has 8 slices.
+- Albert bought 2 small pizzas.
+- Therefore, the total number of slices from the small pizzas is \(2 \times 8 = 16\).
+
+Now, we add the slices from the large and small pizzas to find the total number of slices Albert eats:
+- The total number of slices is \(32 + 16 = 48\).
+
+Thus, the total number of pieces of pizza Albert eats in one day is \(\boxed{48}\).
+================================================================================
+--- Prompt 7 ---
+Ken created a care package to send to his brother, who was away at boarding school. Ken placed a box on a scale, and then he poured into the box enough jelly beans to bring the weight to 2 pounds. Then, he added enough brownies to cause the weight to triple. Next, he added another 2 pounds of jelly beans. And finally, he added enough gummy worms to double the weight once again. What was the final weight of the box of goodies, in pounds?
+
+To determine the final weight of the box of goodies, we will follow the steps of adding the items one by one and keep track of the weight at each stage.
+
+1. Initially, the weight of the box is 0 pounds.
+2. Ken adds enough jelly beans to bring the weight to 2 pounds. So, the weight is now 2 pounds.
+3. Next, he adds enough brownies to cause the weight to triple. The weight becomes \(2 \times 3 = 6\) pounds.
+4. Then, he adds another 2 pounds of jelly beans. The weight is now \(6 + 2 = 8\) pounds.
+5. Finally, he adds enough gummy worms to double the weight once again. The weight becomes \(8 \times 2 = 16\) pounds.
+
+Therefore, the final weight of the box of goodies is \(\boxed{16}\) pounds.
+================================================================================
+--- Prompt 8 ---
+Alexis is applying for a new job and bought a new set of business clothes to wear to the interview. She went to a department store with a budget of $200 and spent $30 on a button-up shirt, $46 on suit pants, $38 on a suit coat, $11 on socks, and $18 on a belt. She also purchased a pair of shoes, but lost the receipt for them. She has $16 left from her budget. How much did Alexis pay for the shoes?
+
+To determine how much Alexis paid for the shoes, we need to follow these steps:
+
+1. Calculate the total amount Alexis spent on the items she remembers.
+2. Subtract this total from her initial budget to find out how much she spent on the shoes.
+3. Verify that the remaining amount matches the information given.
+
+First, let's calculate the total amount spent on the items Alexis remembers:
+\[
+30 + 46 + 38 + 11 + 18 = 143
+\]
+So, Alexis spent $143 on the items she remembers.
+
+Next, we know that after buying the shoes, Alexis has $16 left from her $200 budget. Therefore, the amount spent on the shoes is:
+\[
+200 - 16 = 184
+\]
+So, Alexis paid $184 for the shoes.
+
+To verify, we can check the total spent:
+\[
+30 + 46 + 38 + 11 + 18 + 184 = 305
+\]
+Since the total spent is $305, and Alexis has $16 left, the amount spent on the shoes is indeed $184
+================================================================================
+--- Prompt 9 ---
+Tina makes $18.00 an hour. If she works more than 8 hours per shift, she is eligible for overtime, which is paid by your hourly wage + 1/2 your hourly wage. If she works 10 hours every day for 5 days, how much money does she make?
+
+To determine how much money Tina makes, we need to calculate her earnings for both regular hours and overtime hours, and then sum them up.
+
+First, let's calculate her regular hours and overtime hours:
+- Tina works 10 hours every day for 5 days, so she works a total of \(10 \times 5 = 50\) hours.
+- Since she works more than 8 hours per shift, she is eligible for overtime. The overtime hours are \(50 - 8 \times 5 = 50 - 40 = 10\) hours.
+
+Next, we calculate her earnings:
+- For the regular hours, she earns $18.00 per hour. So, her earnings for the regular hours are \(18 \times 40 = 720\) dollars.
+- For the overtime hours, she earns her regular hourly wage plus half of her regular hourly wage. So, her overtime wage is \(18 + \frac{18}{2} = 18 + 9 = 27\) dollars per hour. Therefore, her earnings for the overtime hours are \(27 \times 10 = 270\) dollars.
+
+Adding the earnings from regular hours and
+================================================================================
+--- Prompt 10 ---
+A deep-sea monster rises from the waters once every hundred years to feast on a ship and sate its hunger. Over three hundred years, it has consumed 847 people. Ships have been built larger over time, so each new ship has twice as many people as the last ship. How many people were on the ship the monster ate in the first hundred years?
+
+Let's denote the number of people on the ship in the first hundred years as \( x \). According to the problem, each subsequent ship has twice as many people as the previous one. Therefore, the number of people on the ship in the second hundred years is \( 2x \), and the number of people on the ship in the third hundred years is \( 4x \).
+
+The total number of people consumed over the three hundred years is the sum of the people on each ship, which is given as 847. We can write this as:
+\[ x + 2x + 4x = 847 \]
+Combining like terms, we get:
+\[ 7x = 847 \]
+To find \( x \), we divide both sides of the equation by 7:
+\[ x = \frac{847}{7} = 121 \]
+So, the number of people on the ship the monster ate in the first hundred years is \(\boxed{121}\).
+================================================================================
+--- Prompt 11 ---
+Tobias is buying a new pair of shoes that costs $95. He has been saving up his money each month for the past three months. He gets a $5 allowance a month. He also mows lawns and shovels driveways. He charges $15 to mow a lawn and $7 to shovel. After buying the shoes, he has $15 in change. If he mows 4 lawns, how many driveways did he shovel?
+
+Let's calculate the total amount of money Tobias had before buying the shoes.
+
+He saved $5 a month for 3 months, so that's $5 * 3 = $15.
+
+He also mowed 4 lawns, so that's 4 * $15 = $60.
+
+He shoveled driveways, and we know he has $15 left after buying the shoes, so the total amount he had before buying the shoes was the cost of the shoes plus the $15 he has left, which is $95 + $15 = $110.
+
+Now, let's find out how much he earned from mowing lawns and shoveling driveways.
+
+He earned $60 from mowing lawns.
+
+The cost of the shoes is $95, so the amount he earned from shoveling driveways is $110 - $95 = $15.
+
+Since he charges $7 to shovel a driveway, the number of driveways he shoveled is $15 / $7 = 2 driveways (with $1 left over, which doesn't count as a driveway).
+
+So, Tobias shoveled 2 driveways.
+================================================================================
+--- Prompt 12 ---
+Randy has 60 mango trees on his farm. He also has 5 less than half as many coconut trees as mango trees. How many trees does Randy have in all on his farm?
+
+Half the number of mango trees is 60/2 = 30 trees.
+Randy has 30-5 = 25 coconut trees.
+Randy has a total of 60+25 = 85 trees on his farm.
+
+Therefore, the answer is 85.
+================================================================================
+--- Prompt 13 ---
+Jasper will serve charcuterie at his dinner party. He buys 2 pounds of cheddar cheese for $10, a pound of cream cheese that cost half the price of the cheddar cheese, and a pack of cold cuts that cost twice the price of the cheddar cheese. How much does he spend on the ingredients?
+
+To determine how much Jasper spends on the ingredients, we need to calculate the cost of each type of ingredient and then sum them up.
+
+1. **Cost of cheddar cheese:**
+   Jasper buys 2 pounds of cheddar cheese for $10.
+   \[
+   \text{Cost of cheddar cheese} = \$10
+   \]
+
+2. **Cost of cream cheese:**
+   The cream cheese costs half the price of the cheddar cheese.
+   \[
+   \text{Cost of cream cheese} = \frac{10}{2} = \$5
+   \]
+
+3. **Cost of cold cuts:**
+   The pack of cold cuts costs twice the price of the cheddar cheese.
+   \[
+   \text{Cost of cold cuts} = 2 \times 10 = \$20
+   \]
+
+4. **Total cost:**
+   Now, we sum the costs of all the ingredients.
+   \[
+   \text{Total cost} = \text{Cost of cheddar cheese} + \text{Cost of cream cheese} + \text{Cost of cold cuts}
+   \]
+   \[
+   \text{Total cost} = 10 + 5 +
+================================================================================
+--- Prompt 14 ---
+Joy can read 8 pages of a book in 20 minutes. How many hours will it take her to read 120 pages?
+
+To determine how many hours it will take Joy to read 120 pages, we start by finding her reading rate in pages per minute. We know that Joy can read 8 pages in 20 minutes. Therefore, her reading rate is:
+
+\[
+\text{Reading rate} = \frac{8 \text{ pages}}{20 \text{ minutes}} = \frac{2 \text{ pages}}{5 \text{ minutes}} = 0.4 \text{ pages per minute}
+\]
+
+Next, we need to find out how many minutes it will take her to read 120 pages. Since she reads at a rate of 0.4 pages per minute, the time required to read 120 pages is:
+
+\[
+\text{Time in minutes} = \frac{120 \text{ pages}}{0.4 \text{ pages per minute}} = 300 \text{ minutes}
+\]
+
+To convert the time from minutes to hours, we divide the number of minutes by 60 (since there are 60 minutes in an hour):
+
+\[
+\text{Time in hours} = \frac{300 \text{ minutes}}{60
+================================================================================
