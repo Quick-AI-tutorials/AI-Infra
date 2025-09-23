@@ -4,8 +4,13 @@
 
 ### Quick start
 ```
+git clone https://github.com/ai-dynamo/dynamo.git
+cd dynamo
+
 docker compose -f deploy/docker-compose.yml --profile metrics up -d
 
+# Build the container
+./container/build.sh --framework vllm
 ./container/run.sh --framework vllm -it --mount-workspace
 
 # Install nvshem
@@ -13,20 +18,15 @@ pip install --upgrade pip
 pip install --extra-index-url https://pypi.nvidia.com \
     nvidia-nvshmem-cu12 nvshmem4py-cu12
 
-# 2) (Often already set, but harmless) expose libs on the path
-export NVSHMEM_HOME=/usr/local
-export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
-
-# 3) Sanity check
-python -c "import nvshmem; print('nvshmem OK:', getattr(nvshmem,'__version__','unknown'))"
-
 # serve 
-export ENABLE_LMCACHE=1
-export LMCACHE_CHUNK_SIZE=256
-export LMCACHE_LOCAL_CPU=True
-export LMCACHE_MAX_LOCAL_CPU_SIZE=64
+python -m dynamo.frontend --http-port=8000 &
 
-./components/backends/vllm/launch/agg_lmcache.sh
+# run worker with LMCache enabled
+ENABLE_LMCACHE=1 \
+LMCACHE_CHUNK_SIZE=256 \
+LMCACHE_LOCAL_CPU=True \
+LMCACHE_MAX_LOCAL_CPU_SIZE=20 \
+  python -m dynamo.vllm --model Qwen/Qwen3-0.6B
 
 # Test a prompt
 curl localhost:8000/v1/chat/completions   -H "Content-Type: application/json"   -d '{
