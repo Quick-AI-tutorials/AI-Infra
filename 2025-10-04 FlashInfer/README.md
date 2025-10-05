@@ -11,7 +11,7 @@ cd assignment2-systems
 conda create -n flashinfer python=3.10 -y
 conda activate flashinfer
 
-pip install flashinfer
+pip install flashinfer-python
 
 pip install einx jaxtyping
 
