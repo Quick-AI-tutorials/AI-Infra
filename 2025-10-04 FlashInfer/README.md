@@ -1,4 +1,7 @@
 # Build your own Transformer with FlashInfer
+
+![Flash Attention Thumbnail](./Thumbnail%20Flash%20Attention.png)
+
 Find a Pytorch Docker Image. E.g. Vast.ai: https://hub.docker.com/r/vastai/pytorch/.
 
 Rent a A100 GPU.
