@@ -12,4 +12,7 @@ __global__ void vecMult(float* w, float* x, float* res)
 vecMult<<<8, 1024>>> (d_w, d_x, d_res); 
 ```
 
-Full code in `weighted_sum.cu`.
+Full code in `weighted_sum.cu`. To execute,
+```
+nvcc weighted_sum.cu -o weighted_sum; ./weighted_sum
+```
