@@ -1,4 +1,4 @@
-# How to Deploy a Model on vLLM with Local GPU
+# How to Deploy a Model on vLLM with Local GPU (feat. GPT-OSS 20B)
 
 ![](./diagram-container-vllm.png)
 
