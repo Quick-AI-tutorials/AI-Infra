@@ -19,7 +19,10 @@ profileColor: #FF4500
 
 openclaw browser --browser-profile openclaw start
 
+-> 🦞 browser [openclaw] running: true
 -> This will open a new tab
 
-openclaw browser --browser-profile openclaw open https://example.com](https://www.freetaxusa.com/
+openclaw browser --browser-profile openclaw open https://www.freetaxusa.com/
+
+-> This will open the website
 ```
